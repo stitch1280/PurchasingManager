@@ -7,8 +7,8 @@
     <ProjectGuid>{539FC66A-F7C4-40AF-AD63-516AEE805E13}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EmptyPluginProject</RootNamespace>
-    <AssemblyName>EmptyPluginProject</AssemblyName>
+    <RootNamespace>PurchasingManagerPlugin</RootNamespace>
+    <AssemblyName>PurchasingManagerPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -87,7 +87,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="PurchasingManagerStartup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
