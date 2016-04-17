@@ -15,7 +15,9 @@
     <LoadAsynchronously>false</LoadAsynchronously>
     <RecordLockContention>false</RecordLockContention>
   </GlobalContentSettingsSave>
-  <SyncedProjects />
+  <SyncedProjects>
+    <string>../../PurchasingManagerTestProjectW8/PurchasingManagerTestProjectW8/PurchasingManagerTestProjectW8.csproj</string>
+  </SyncedProjects>
   <ResolutionPresets />
   <PerformanceSettingsSave>
     <ThrowExceptionOnPostInitializeContentLoad>false</ThrowExceptionOnPostInitializeContentLoad>
